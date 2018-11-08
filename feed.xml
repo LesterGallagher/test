@@ -4,7 +4,7 @@
   
 	<subtitle type="text"><![CDATA[Web, app and tooling development and graphic design studio. View all websites made by Echo Sierra Studio and contact us if your interested.]]></subtitle>
   
-	<updated>2018-11-08T13:04:19+01:00</updated>
+	<updated>2018-11-07T17:34:00+01:00</updated>
 	<id>http://localhost:4000/</id>
 	<link rel="alternate" type="text/html" hreflang="en" href="http://localhost:4000" />
 
@@ -95,7 +95,7 @@
 		<title type="html"><![CDATA[Create draggable elements with Javascript]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/11/01/create-draggable-elements-with-javascript.html" />
 		<id>http://localhost:4000/2018/11/01/create-draggable-elements-with-javascript</id>
-		<updated>2018-11-01T20:26:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -280,7 +280,7 @@
 		<title type="html"><![CDATA[Lazy loading images with Javascript]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/11/01/lazyloading-images-with-javascript.html" />
 		<id>http://localhost:4000/2018/11/01/lazyloading-images-with-javascript</id>
-		<updated>2018-11-01T01:00:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[]]></name>
@@ -518,7 +518,7 @@
 		<title type="html"><![CDATA[Implementing Binary Heaps with Javascript]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/31/implementing-binary-heaps-with-javascript.html" />
 		<id>http://localhost:4000/2018/10/31/implementing-binary-heaps-with-javascript</id>
-		<updated>2018-10-31T17:23:28+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -815,7 +815,7 @@
 		<title type="html"><![CDATA[Creating an Atom feed reader with Javascript]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/30/creating-an-atom-feed-reader-with-javascript.html" />
 		<id>http://localhost:4000/2018/10/30/creating-an-atom-feed-reader-with-javascript</id>
-		<updated>2018-10-30T21:26:22+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1015,7 +1015,7 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
 		<title type="html"><![CDATA[Base Converter]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/30/base-converter.html" />
 		<id>http://localhost:4000/2018/10/30/base-converter</id>
-		<updated>2018-10-30T11:50:18+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1047,7 +1047,7 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
 		<title type="html"><![CDATA[Creating a Javascript spellingchecker with bjspell]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/22/javascript-spellingchecker.html" />
 		<id>http://localhost:4000/2018/10/22/javascript-spellingchecker</id>
-		<updated>2018-10-22T21:11:31+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1209,7 +1209,7 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
 		<title type="html"><![CDATA[ATC Manager 2 - Text Commands Tutorial]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/22/atc-manager-2-text-commands-tutorial.html" />
 		<id>http://localhost:4000/2018/10/22/atc-manager-2-text-commands-tutorial</id>
-		<updated>2018-10-22T20:49:22+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1381,7 +1381,7 @@ e.g DLH213 extend downwind
 		<title type="html"><![CDATA[ATC Manager 2 - Tutorial]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/22/atc-manager-2-tutorial.html" />
 		<id>http://localhost:4000/2018/10/22/atc-manager-2-tutorial</id>
-		<updated>2018-10-22T20:35:23+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1562,7 +1562,7 @@ e.g DLH213 extend downwind
 		<title type="html"><![CDATA[ATC Manager 2 - Tutorials and General Aviation]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/27/atc-manager-2-tutorials-and-general-aviation.html" />
 		<id>http://localhost:4000/2018/09/27/atc-manager-2---tutorials-and-general-aviation</id>
-		<updated>2018-09-27T16:57:08+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1760,7 +1760,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[3D Texturing using curvature maps.]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/10/3d-texturing-using-curvature-maps.html" />
 		<id>http://localhost:4000/2018/09/10/3d-texturing-using-curvature-maps</id>
-		<updated>2018-09-10T12:30:08+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1857,7 +1857,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Amsterdam Outdoor Urinals]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/05/amsterdam-outdoor-urinals.html" />
 		<id>http://localhost:4000/2018/09/05/amsterdam-outdoor-urinals</id>
-		<updated>2018-09-05T17:48:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1896,7 +1896,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Bike Rental Amsterdam]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/05/bike-rental-amsterdam.html" />
 		<id>http://localhost:4000/2018/09/05/bike-rental-amsterdam</id>
-		<updated>2018-09-05T17:25:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -1938,7 +1938,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Air Traffic Controller Games]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/04/air-traffic-controller-games.html" />
 		<id>http://localhost:4000/2018/09/04/air-traffic-controller-games</id>
-		<updated>2018-09-04T11:48:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2018,7 +2018,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Youtube Comment Generator]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/31/youtube-comment-generator.html" />
 		<id>http://localhost:4000/2018/08/31/youtube-comment-generator</id>
-		<updated>2018-08-31T03:05:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2049,7 +2049,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Earth at Night]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/30/earth-at-night.html" />
 		<id>http://localhost:4000/2018/08/30/earth-at-night</id>
-		<updated>2018-08-30T17:31:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2077,7 +2077,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[ATC Manager]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/30/atc-manager.html" />
 		<id>http://localhost:4000/2018/08/30/atc-manager</id>
-		<updated>2018-08-30T17:07:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2216,7 +2216,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Kadaster Kaart]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/29/kadaster-kaart.html" />
 		<id>http://localhost:4000/2018/08/29/kadaster-kaart</id>
-		<updated>2018-08-29T11:23:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2238,7 +2238,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[ATC Manager 2 - version 2]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/26/atc-manager-2-version-2.html" />
 		<id>http://localhost:4000/2018/08/26/atc-manager-2-version-2</id>
-		<updated>2018-08-26T17:38:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2383,7 +2383,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Converting JSON from and to XML in Javascript]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/14/json2xml.html" />
 		<id>http://localhost:4000/2018/08/14/json2xml</id>
-		<updated>2018-08-13T23:26:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2850,7 +2850,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Bioscopen Nederland]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/bioscopen-nederland.html" />
 		<id>http://localhost:4000/2018/08/11/bioscopen-nederland</id>
-		<updated>2018-08-11T02:02:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2878,7 +2878,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Rustplekken Utrecht]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/rustplekken-utrecht.html" />
 		<id>http://localhost:4000/2018/08/11/rustplekken-utrecht</id>
-		<updated>2018-08-11T01:59:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2906,7 +2906,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Public Toilets Amsterdam]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/public-toilets-amsterdam.html" />
 		<id>http://localhost:4000/2018/08/11/public-toilets-amsterdam</id>
-		<updated>2018-08-11T01:55:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2934,7 +2934,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Echochamber Affinity]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/echochamber-affinity.html" />
 		<id>http://localhost:4000/2018/08/11/echochamber-affinity</id>
-		<updated>2018-08-11T01:50:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2961,7 +2961,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Simple Function Plotter]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/simple-function-plotter.html" />
 		<id>http://localhost:4000/2018/08/11/simple-function-plotter</id>
-		<updated>2018-08-11T01:40:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -2989,7 +2989,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[ATC Manager 2]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/atc-manager-2.html" />
 		<id>http://localhost:4000/2018/08/11/atc-manager-2</id>
-		<updated>2018-08-11T01:30:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3016,7 +3016,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Youtube Comments are Evil]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/youtube-comments-are-evil.html" />
 		<id>http://localhost:4000/2018/08/11/youtube-comments-are-evil</id>
-		<updated>2018-08-11T01:21:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3043,7 +3043,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Laika Notes]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/laika-notes.html" />
 		<id>http://localhost:4000/2018/08/11/laika-notes</id>
-		<updated>2018-08-11T01:15:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3071,7 +3071,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Newsfeeder]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/newsfeeder.html" />
 		<id>http://localhost:4000/2018/08/11/newsfeeder</id>
-		<updated>2018-08-11T00:45:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3102,7 +3102,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Pure CSS Progress Circles]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/07/08/pure-css-progress-circles.html" />
 		<id>http://localhost:4000/2018/07/08/pure-css-progress-circles</id>
-		<updated>2018-07-08T14:31:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3344,7 +3344,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[OV Fiets App 1.2]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/07/02/ov-fiets-app.html" />
 		<id>http://localhost:4000/2018/07/02/ov-fiets-app</id>
-		<updated>2018-07-02T14:58:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3462,7 +3462,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Converting JSON to CSV in Javascript]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/06/07/obj2csv-dot-js.html" />
 		<id>http://localhost:4000/2018/06/07/obj2csv-dot-js</id>
-		<updated>2018-06-07T12:45:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
@@ -3647,7 +3647,7 @@ VFR Traffic</p>
 		<title type="html"><![CDATA[Teaching a Neural Network to write text]]></title>
 		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/05/28/teaching-a-neural-network-to-write-text.html" />
 		<id>http://localhost:4000/2018/05/28/teaching-a-neural-network-to-write-text</id>
-		<updated>2018-05-28T14:44:00+01:00</updated>
+		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
