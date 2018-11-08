@@ -5,8 +5,8 @@
 	<subtitle type="text"><![CDATA[Web, app and tooling development and graphic design studio. View all websites made by Echo Sierra Studio and contact us if your interested.]]></subtitle>
   
 	<updated>2018-11-07T17:34:00+01:00</updated>
-	<id>http://localhost:4000/</id>
-	<link rel="alternate" type="text/html" hreflang="en" href="http://localhost:4000" />
+	<id>https://esstudio.site/</id>
+	<link rel="alternate" type="text/html" hreflang="en" href="https://esstudio.site" />
 
   
 	<rights>Copyright (c) 2018 Sem Postma</rights>
@@ -15,15 +15,15 @@
   
 	<entry>
 		<title type="html"><![CDATA[Kadaster Online]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/11/07/kadaster-online.html" />
-		<id>http://localhost:4000/2018/11/07/kadaster-online</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/11/07/kadaster-online.html" />
+		<id>https://esstudio.site/2018/11/07/kadaster-online</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/11/07/kadaster-online.html">
+		<content type="html" xml:base="https://esstudio.site/2018/11/07/kadaster-online.html">
 			<![CDATA[<p>Met <a href="https://esstudio.site/kadaster-app">deze gratis kadastrale kaart</a> van nederland kun je heel makkelijk kadaster en BAG (Basisregistraties adressen en gebouwen) informatie opzoeken. De informatie komt rechtstreeks van het kadaster systeem door gebruik te maken van het geodata bestand van <a href="https://www.nationaalregister.nl/">het nationaal register</a>. Op de kadaster kaart kun je de volgende informatie vinden:</p>
 
 <ul>
@@ -56,7 +56,7 @@
 <p>Deze app kan voor veel verschillende doeleinden handig zijn. Voor bedrijven om gemakkelijk toegang te hebben tot deze dataset, maar je kunt ook gewoon even kijken wat de oppervlakte van het huis van de buren is.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/magnifying-glass.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/magnifying-glass.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Kadaster Kaart</h1>
     <p>Met de Kadaster kaart app/website kunt u gemakkelijk informatie opzoeken over percelen die geregistreerd staan bij het Kadaster.</p>
     <a class="btn" href="https://esstudio.site/kadaster-app">
@@ -93,15 +93,15 @@
   
 	<entry>
 		<title type="html"><![CDATA[Create draggable elements with Javascript]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/11/01/create-draggable-elements-with-javascript.html" />
-		<id>http://localhost:4000/2018/11/01/create-draggable-elements-with-javascript</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/11/01/create-draggable-elements-with-javascript.html" />
+		<id>https://esstudio.site/2018/11/01/create-draggable-elements-with-javascript</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/11/01/create-draggable-elements-with-javascript.html">
+		<content type="html" xml:base="https://esstudio.site/2018/11/01/create-draggable-elements-with-javascript.html">
 			<![CDATA[<p>There are a lot of libraries that offer this type of functionaly but this often means, loading hundreds of kilobytes of Javascript and CSS. I my case i justed wanted simple sticky note functionaly. I want a draggable element and a “dragger” handle with which I can drag the element. It had to be simple and flexible, extendible, no initialization code, it had to have support for nested draggables and should always stay within the parent element (the draggable area).</p>
 
 <h3 id="the-html">The HTML</h3>
@@ -278,15 +278,15 @@
   
 	<entry>
 		<title type="html"><![CDATA[Lazy loading images with Javascript]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/11/01/lazyloading-images-with-javascript.html" />
-		<id>http://localhost:4000/2018/11/01/lazyloading-images-with-javascript</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/11/01/lazyloading-images-with-javascript.html" />
+		<id>https://esstudio.site/2018/11/01/lazyloading-images-with-javascript</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/11/01/lazyloading-images-with-javascript.html">
+		<content type="html" xml:base="https://esstudio.site/2018/11/01/lazyloading-images-with-javascript.html">
 			<![CDATA[<p>Lazy Loading doesn’t have to be hard. This is a very simple example/tutorial on how to do lazy loading. Lazy loading works best if you have to load in a lot of large images which slows down the page load.</p>
 
 <p>The only requirement for this implementation is, that you have to have to native image width and native image height. This can easily be done server-side.</p>
@@ -516,15 +516,15 @@
   
 	<entry>
 		<title type="html"><![CDATA[Implementing Binary Heaps with Javascript]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/31/implementing-binary-heaps-with-javascript.html" />
-		<id>http://localhost:4000/2018/10/31/implementing-binary-heaps-with-javascript</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/10/31/implementing-binary-heaps-with-javascript.html" />
+		<id>https://esstudio.site/2018/10/31/implementing-binary-heaps-with-javascript</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/10/31/implementing-binary-heaps-with-javascript.html">
+		<content type="html" xml:base="https://esstudio.site/2018/10/31/implementing-binary-heaps-with-javascript.html">
 			<![CDATA[<p>A heap tree is a type of data structure where the each node is either greater than or equal or less than or equal to the node’s children. Binary heaps are often used to implement priority queues. Priority queues are used in pathfinding for example.</p>
 
 <p>Even though it might sound like a difficult subject it’s actually not that difficult. We will start by establishing some basics. The first one being that a node will always be equal to or smaller than it’s children. This means that the smallest value is always on top (the root node). The reason that a binary heap is so fast compared to sorting arrays, is that everytime we add or delete an item, we “sort” the heap. This heap “sorting” is very fast because we only need to check the parent node if it’s bigger than the child. As the tree grows exponentially the time to sort the heap does not (grow exponentially). This is called time complexity, which is “O(log n)” for heap insertion and deletion. Binary heaps can perform very well with very large data-sets compared to other algorithms.</p>
@@ -813,15 +813,15 @@
   
 	<entry>
 		<title type="html"><![CDATA[Creating an Atom feed reader with Javascript]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/30/creating-an-atom-feed-reader-with-javascript.html" />
-		<id>http://localhost:4000/2018/10/30/creating-an-atom-feed-reader-with-javascript</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/10/30/creating-an-atom-feed-reader-with-javascript.html" />
+		<id>https://esstudio.site/2018/10/30/creating-an-atom-feed-reader-with-javascript</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/10/30/creating-an-atom-feed-reader-with-javascript.html">
+		<content type="html" xml:base="https://esstudio.site/2018/10/30/creating-an-atom-feed-reader-with-javascript.html">
 			<![CDATA[<p>First of all, Atom is an extension of XML, just like RSS. Atom uses the <code class="highlighter-rouge">.atom</code> and <code class="highlighter-rouge">.xml</code> extensions and the <code class="highlighter-rouge">application/atom+xml</code> mimetype. Below is an example of an Atom feed from <a href="AHS Blog">https://americanhorrorstory.style/</a>. Having an atom feed on your website is a good idea, you can get more exposure via rss readers like <a href="Feedly">https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Famericanhorrorstory.style%2Ffeed</a>, NewsBlur or <a href="https://esstudio.site/newsfeeder/">NewsFeeder (a website/app i created)</a>.</p>
 
 <div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
@@ -922,7 +922,7 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
 <p>The RSS reader I talked about earlier is a serverless javascript website/app called <a href="https://esstudio.site/newsfeeder/">NewsFeeder</a>. I’t parses Atom and RSS feeds, it’s free, it’s safe and has no sign-up.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/logo-6c4e4d.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/logo-6c4e4d.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>NewsFeeder</h1>
     <p>Easily search for news on multiple platforms, find feeds on popular websites and more. Also works as a classic RSS/Atom reader.</p>
     <a class="btn" href="https://esstudio.site/newsfeeder">
@@ -1013,19 +1013,19 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
   
 	<entry>
 		<title type="html"><![CDATA[Base Converter]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/30/base-converter.html" />
-		<id>http://localhost:4000/2018/10/30/base-converter</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/10/30/base-converter.html" />
+		<id>https://esstudio.site/2018/10/30/base-converter</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/10/30/base-converter.html">
+		<content type="html" xml:base="https://esstudio.site/2018/10/30/base-converter.html">
 			<![CDATA[<p>This simple simple conversion tool converts the same number between different number systems. You can convert from any base, for example, hexadecimal, decimal, binary, octal, up to base 36, which is the largest base you can represent using letters, and numbers (0-9 + A-Z).</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/basecalc.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/basecalc.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Base Converter</h1>
     <p>An easy to use application which converts to different numerical systems.</p>
     <a class="btn" href="https://basecalc.esstudio.site/">
@@ -1045,15 +1045,15 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
   
 	<entry>
 		<title type="html"><![CDATA[Creating a Javascript spellingchecker with bjspell]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/22/javascript-spellingchecker.html" />
-		<id>http://localhost:4000/2018/10/22/javascript-spellingchecker</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/10/22/javascript-spellingchecker.html" />
+		<id>https://esstudio.site/2018/10/22/javascript-spellingchecker</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/10/22/javascript-spellingchecker.html">
+		<content type="html" xml:base="https://esstudio.site/2018/10/22/javascript-spellingchecker.html">
 			<![CDATA[<p>I saw this question on stackoverflow: <a href="https://stackoverflow.com/questions/6252358/need-client-side-spell-checker-for-div">Need Client side spell checker for DIV</a>. There are not a lot of libraries available that will allow you to do this but I did find an older library called <a href="http://code.google.com/p/bjspell">bjspell</a> which does the job.</p>
 
 <p>BJSpell in production: <a href="https://spell-checker.site">spell-checker.site</a></p>
@@ -1207,15 +1207,15 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
   
 	<entry>
 		<title type="html"><![CDATA[ATC Manager 2 - Text Commands Tutorial]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/22/atc-manager-2-text-commands-tutorial.html" />
-		<id>http://localhost:4000/2018/10/22/atc-manager-2-text-commands-tutorial</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/10/22/atc-manager-2-text-commands-tutorial.html" />
+		<id>https://esstudio.site/2018/10/22/atc-manager-2-text-commands-tutorial</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/10/22/atc-manager-2-text-commands-tutorial.html">
+		<content type="html" xml:base="https://esstudio.site/2018/10/22/atc-manager-2-text-commands-tutorial.html">
 			<![CDATA[<p>All Tutorials</p>
 
 <h3 id="text-comands-tutorial">Text Comands Tutorial</h3>
@@ -1379,15 +1379,15 @@ e.g DLH213 extend downwind
   
 	<entry>
 		<title type="html"><![CDATA[ATC Manager 2 - Tutorial]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/10/22/atc-manager-2-tutorial.html" />
-		<id>http://localhost:4000/2018/10/22/atc-manager-2-tutorial</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/10/22/atc-manager-2-tutorial.html" />
+		<id>https://esstudio.site/2018/10/22/atc-manager-2-tutorial</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/10/22/atc-manager-2-tutorial.html">
+		<content type="html" xml:base="https://esstudio.site/2018/10/22/atc-manager-2-tutorial.html">
 			<![CDATA[<p>All Tutorials</p>
 
 <h3 id="intro-tutorial">Intro Tutorial</h3>
@@ -1560,15 +1560,15 @@ e.g DLH213 extend downwind
   
 	<entry>
 		<title type="html"><![CDATA[ATC Manager 2 - Tutorials and General Aviation]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/27/atc-manager-2-tutorials-and-general-aviation.html" />
-		<id>http://localhost:4000/2018/09/27/atc-manager-2---tutorials-and-general-aviation</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/09/27/atc-manager-2-tutorials-and-general-aviation.html" />
+		<id>https://esstudio.site/2018/09/27/atc-manager-2---tutorials-and-general-aviation</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/09/27/atc-manager-2-tutorials-and-general-aviation.html">
+		<content type="html" xml:base="https://esstudio.site/2018/09/27/atc-manager-2-tutorials-and-general-aviation.html">
 			<![CDATA[<p><strong>Tutorials</strong></p>
 
 <p>I’m in the process of writing tutorials for the general aviation feature of the game (which will soon be added). I thought it would be cool to include some tutorials from the community in the game! If anyone is interested you could message me a pastebin link or a youtube video etc. You will of course be credited along with the tutorial and in the about section as a top contributor of the game.</p>
@@ -1664,7 +1664,7 @@ VFR Traffic</p>
 </div>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/vfr.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/vfr.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>ATC Manager 2</h1>
     <p>Web based air traffic control game. Manage airspace of busy airports like Schiphol or Heathrow in a realistic simulator.</p>
     <a class="btn" href="https://esstudio.site/atc-manager-2">
@@ -1758,15 +1758,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[3D Texturing using curvature maps.]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/10/3d-texturing-using-curvature-maps.html" />
-		<id>http://localhost:4000/2018/09/10/3d-texturing-using-curvature-maps</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/09/10/3d-texturing-using-curvature-maps.html" />
+		<id>https://esstudio.site/2018/09/10/3d-texturing-using-curvature-maps</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/09/10/3d-texturing-using-curvature-maps.html">
+		<content type="html" xml:base="https://esstudio.site/2018/09/10/3d-texturing-using-curvature-maps.html">
 			<![CDATA[<p>Using curvature maps is a great way of improving your diffuse/occlusion maps and potentially also other kind of UV maps. Im sorry if I’m not the most educated on this subject but I was very pleased with the final result. I decided to create eight meshes which I then unwrapped on a single 4096 by 4096 px image. Creating each map for all of the meshes and then combining them took a long time to complete. But the fun part was generating the curvature maps. In short the curvature map stores the convexity of the mesh in the Red color value, and concavity in the Green color value. Convexity of the mesh means the places on the model where the mesh is curving outwards. Concavity means basically the opposite so the places on the model where the mesh is “hollow”. In my case, only the Convexity was important because i wanted to oultine the spots on the mesh where a lot of wear could occur. I only used the Red channel (convexity), and desaturated it. And used the white color to brighten parts of the diffuse map. I also applied this technique to the metalness map.</p>
 
 <p><img src="/uploads/diffuse2-1.png" alt="" /></p>
@@ -1855,22 +1855,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Amsterdam Outdoor Urinals]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/05/amsterdam-outdoor-urinals.html" />
-		<id>http://localhost:4000/2018/09/05/amsterdam-outdoor-urinals</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/09/05/amsterdam-outdoor-urinals.html" />
+		<id>https://esstudio.site/2018/09/05/amsterdam-outdoor-urinals</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/09/05/amsterdam-outdoor-urinals.html">
+		<content type="html" xml:base="https://esstudio.site/2018/09/05/amsterdam-outdoor-urinals.html">
 			<![CDATA[<p>Searching for Amsterdam Outdoor Urinals or a public toilet near you? You can use this website to find a public bathroom in the city of Amsterdam. You can also find information about the restroom like: Does the restroom or urinal have lighting? Does it have a roof?</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/android-chrome-512x512-7ca550.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/android-chrome-512x512-7ca550.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Amsterdam Public Toilets</h1>
     <p>Amsterdam urinals and bathrooms. <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Amsterdam_Public_Toilets" target="_blank">Google Play</a></p>
-    <a class="btn" href="http://localhost:4000/public-toilets-amsterdam">
+    <a class="btn" href="https://esstudio.site/public-toilets-amsterdam">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -1879,10 +1879,10 @@ VFR Traffic</p>
 <p>Need a rental to bike to get there? Check out this app:</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/my_logo_512.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/my_logo_512.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>OV Bike Rentals</h1>
     <p>NS bikes rental locations in Amsterdam/The Netherlands. <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Ov_Fiets_App" target="_blank">Google Play</a></p>
-    <a class="btn" href="http://localhost:4000/ov-fiets-app">
+    <a class="btn" href="https://esstudio.site/ov-fiets-app">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -1894,22 +1894,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Bike Rental Amsterdam]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/05/bike-rental-amsterdam.html" />
-		<id>http://localhost:4000/2018/09/05/bike-rental-amsterdam</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/09/05/bike-rental-amsterdam.html" />
+		<id>https://esstudio.site/2018/09/05/bike-rental-amsterdam</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/09/05/bike-rental-amsterdam.html">
+		<content type="html" xml:base="https://esstudio.site/2018/09/05/bike-rental-amsterdam.html">
 			<![CDATA[<p>Having trouble finding a bike rental location in Amsterdam? View all NS bikes, bike hire and NS rental locations in Amsterdam and the rest of Holland/the Netherlands.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/my_logo_512.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/my_logo_512.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>OV Bike Rentals</h1>
     <p>NS bikes rental locations in Amsterdam/The Netherlands. <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Ov_Fiets_App\" target="_blank">Google Play</a></p>
-    <a class="btn" href="http://localhost:4000/ov-fiets-app">
+    <a class="btn" href="https://esstudio.site/ov-fiets-app">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -1920,10 +1920,10 @@ VFR Traffic</p>
 <p>If you’re visiting Amsterdam this app might also come in handy:</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/android-chrome-512x512-7ca550.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/android-chrome-512x512-7ca550.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Amsterdam Public Toilets</h1>
     <p>Searching for public urinals in amsterdam? this interactive chart shows all the public toilets/urinals/bathrooms in the city center of Amsterdam. <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Amsterdam_Public_Toilets" target="_blank">Google Play</a></p>
-    <a class="btn" href="http://localhost:4000/public-toilets-amsterdam">
+    <a class="btn" href="https://esstudio.site/public-toilets-amsterdam">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -1936,15 +1936,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Air Traffic Controller Games]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/09/04/air-traffic-controller-games.html" />
-		<id>http://localhost:4000/2018/09/04/air-traffic-controller-games</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/09/04/air-traffic-controller-games.html" />
+		<id>https://esstudio.site/2018/09/04/air-traffic-controller-games</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/09/04/air-traffic-controller-games.html">
+		<content type="html" xml:base="https://esstudio.site/2018/09/04/air-traffic-controller-games.html">
 			<![CDATA[<p>Not all of the ATC apps listed here are games. Alot of them are simulators. If you are a real Air Traffic Controller and like to preted to be at work when you come home. Not all of these ATC games are free but i will take that into account.</p>
 
 <h2 id="air-control-madness"><a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.AirControlMadness&amp;hl=en_US">Air Control Madness</a></h2>
@@ -1968,10 +1968,10 @@ VFR Traffic</p>
 <p><img src="/uploads/atc.PNG" alt="atc.PNG" /></p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>ATC Manager 2</h1>
     <p>ATC Manager 2 is a web based air traffic control game. Manage airspace of busy airports like Schiphol or Heathrow in a realistic simulator.</p>
-    <a class="btn" href="http://localhost:4000/atc-manager-2">
+    <a class="btn" href="https://esstudio.site/atc-manager-2">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2016,15 +2016,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Youtube Comment Generator]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/31/youtube-comment-generator.html" />
-		<id>http://localhost:4000/2018/08/31/youtube-comment-generator</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/31/youtube-comment-generator.html" />
+		<id>https://esstudio.site/2018/08/31/youtube-comment-generator</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/31/youtube-comment-generator.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/31/youtube-comment-generator.html">
 			<![CDATA[<p>Searching for a good youtube comments generator?</p>
 
 <p><img src="/uploads/youtube-comments-are-evil-screenshot.png" alt="youtube-comments-are-evil-screenshot.png" /></p>
@@ -2032,7 +2032,7 @@ VFR Traffic</p>
 <p>This website is a free youtube comments generator. The created random comments are based on the existing comments on that video. If a youtube video has alot of comments the results will be best.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/comment.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/comment.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Youtube Comments are Evil</h1>
     <p>Generate fake youtube comments.</p>
     <a class="btn" href="https://ycae.esstudio.site/">
@@ -2047,22 +2047,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Earth at Night]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/30/earth-at-night.html" />
-		<id>http://localhost:4000/2018/08/30/earth-at-night</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/30/earth-at-night.html" />
+		<id>https://esstudio.site/2018/08/30/earth-at-night</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/30/earth-at-night.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/30/earth-at-night.html">
 			<![CDATA[<p>Check out how the earth looks from space and view NASA’s image of the day. This world map/chart is provided by NASA satellite images. The map wil always show the most recent earth imaging. You can even add the page as an app to your homescreen (desktop and mobile), you can find the instructions at the bottom of the <a href="https://esstudio.site/earthatnight/">page</a>.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/earthatnight-2f3131.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/earthatnight-2f3131.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Earth at Night</h1>
     <p>View the earth at night.</p>
-    <a class="btn" href="http://localhost:4000/earthatnight">
+    <a class="btn" href="https://esstudio.site/earthatnight">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2075,15 +2075,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[ATC Manager]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/30/atc-manager.html" />
-		<id>http://localhost:4000/2018/08/30/atc-manager</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/30/atc-manager.html" />
+		<id>https://esstudio.site/2018/08/30/atc-manager</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/30/atc-manager.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/30/atc-manager.html">
 			<![CDATA[<p><strong>Version 2 is out!</strong></p>
 
 <p>New planes, new operators, new airfields, save your progress and new features!</p>
@@ -2214,15 +2214,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Kadaster Kaart]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/29/kadaster-kaart.html" />
-		<id>http://localhost:4000/2018/08/29/kadaster-kaart</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/29/kadaster-kaart.html" />
+		<id>https://esstudio.site/2018/08/29/kadaster-kaart</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/29/kadaster-kaart.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/29/kadaster-kaart.html">
 			<![CDATA[<p>Met de kadaster kaart kunt u gemakkelijk online kadasterdata bekijken in Nederland. De actuele gegevens zijn makkelijk in te zien en op te slaan. Vind voor elk perceel, ligplaats, pand, verblijfplaats en standplaats in Nederland en groot aantal andere gegevens. De app gebruikt een minimaal gedeelte van u opslag en is zeer gemakkelijk te gebruiken. Wilt u bij Kadasterplan online een kadasterplan opvragen, bekijk dan eerst of u deze app kunt gebruiken.</p>
 
 <p>U kunt verschillende kaarten gebruiken zoals satelliet en plattegrond of de map van Nederland.</p>
@@ -2236,26 +2236,26 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[ATC Manager 2 - version 2]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/26/atc-manager-2-version-2.html" />
-		<id>http://localhost:4000/2018/08/26/atc-manager-2-version-2</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/26/atc-manager-2-version-2.html" />
+		<id>https://esstudio.site/2018/08/26/atc-manager-2-version-2</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/26/atc-manager-2-version-2.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/26/atc-manager-2-version-2.html">
 			<![CDATA[<p>With the release of version 2 a lot of things have changed (check out the changelog below). New airplanes, operators, icons, ATIS info and a bunch of improvements.</p>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w--RyJ3FaBk?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>ATC Manager 2</h1>
     <p>ATC Manager on the web.
 
 </p>
-    <a class="btn" href="http://localhost:4000/atc-manager-2/">
+    <a class="btn" href="https://esstudio.site/atc-manager-2/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2381,15 +2381,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Converting JSON from and to XML in Javascript]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/14/json2xml.html" />
-		<id>http://localhost:4000/2018/08/14/json2xml</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/14/json2xml.html" />
+		<id>https://esstudio.site/2018/08/14/json2xml</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/14/json2xml.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/14/json2xml.html">
 			<![CDATA[<p>Checkout the website: <a href="https://esstudio.site/json2xml">JSON2XML</a> or the <a href="#full-example">full example</a>.</p>
 
 <p>As it turns out, finding a good xml to json javascript library is not as easy as it sounds. I did find <a href="https://davidwalsh.name/convert-xml-json">this</a> implementation does the job but sometimes the output can be a bit confusing:</p>
@@ -2848,22 +2848,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Bioscopen Nederland]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/bioscopen-nederland.html" />
-		<id>http://localhost:4000/2018/08/11/bioscopen-nederland</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/bioscopen-nederland.html" />
+		<id>https://esstudio.site/2018/08/11/bioscopen-nederland</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/bioscopen-nederland.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/bioscopen-nederland.html">
 			<![CDATA[<p>Deze app maakt het mogelijk om bioscopen in Nederland te zoeken. Je kunt gemakkelijk het adres, het aantal doeken en stoelen vinden. De app kan ook offline gebruikt worden. De app gebruikt een offline kaart waardoor je deze zonder internet nog steeds kan gebruiken.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/logo.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/logo.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Bioscopen Nederland</h1>
     <p>Zoek bioscopen in Nederland.</p>
-    <a class="btn" href="http://localhost:4000/bioscopen-nederland/">
+    <a class="btn" href="https://esstudio.site/bioscopen-nederland/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2876,22 +2876,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Rustplekken Utrecht]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/rustplekken-utrecht.html" />
-		<id>http://localhost:4000/2018/08/11/rustplekken-utrecht</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/rustplekken-utrecht.html" />
+		<id>https://esstudio.site/2018/08/11/rustplekken-utrecht</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/rustplekken-utrecht.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/rustplekken-utrecht.html">
 			<![CDATA[<p>Interactieve kaart met rustpunten in Utrecht. De app bevat ook een offline kaartje zodat je de app ook offline kan gebruiken.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/logo-054ffa.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/logo-054ffa.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Rustplekken Utrecht</h1>
     <p>Interactieve kaart met rustpunten in Utrecht.</p>
-    <a class="btn" href="http://localhost:4000/rustplekken-utrecht/">
+    <a class="btn" href="https://esstudio.site/rustplekken-utrecht/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2904,22 +2904,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Public Toilets Amsterdam]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/public-toilets-amsterdam.html" />
-		<id>http://localhost:4000/2018/08/11/public-toilets-amsterdam</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/public-toilets-amsterdam.html" />
+		<id>https://esstudio.site/2018/08/11/public-toilets-amsterdam</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/public-toilets-amsterdam.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/public-toilets-amsterdam.html">
 			<![CDATA[<p>Interactive chart showing public toilets in the city centre of amsterdam. The chart also shows your current location for easy navigation. This app also loads in a small offline map (only about ~4.3MB), so you don’t have to worry about your internet connection when you install this app on your device.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/android-chrome-512x512-7ca550.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/android-chrome-512x512-7ca550.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Public Toilets Amsterdam</h1>
     <p>Interactive chart showing public toilets in the city centre of amsterdam.</p>
-    <a class="btn" href="http://localhost:4000/public-toilets-amsterdam/">
+    <a class="btn" href="https://esstudio.site/public-toilets-amsterdam/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2932,22 +2932,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Echochamber Affinity]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/echochamber-affinity.html" />
-		<id>http://localhost:4000/2018/08/11/echochamber-affinity</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/echochamber-affinity.html" />
+		<id>https://esstudio.site/2018/08/11/echochamber-affinity</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/echochamber-affinity.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/echochamber-affinity.html">
 			<![CDATA[<p>Check your twitter personality. On which side of the political spectrum do you fall?</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/android-chrome-512x512.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/android-chrome-512x512.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Echochamber Affinity</h1>
     <p>Check your twitter personality. On which side of the political spectrum do you fall?</p>
-    <a class="btn" href="http://localhost:4000/echochamber-affinity/">
+    <a class="btn" href="https://esstudio.site/echochamber-affinity/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2959,22 +2959,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Simple Function Plotter]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/simple-function-plotter.html" />
-		<id>http://localhost:4000/2018/08/11/simple-function-plotter</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/simple-function-plotter.html" />
+		<id>https://esstudio.site/2018/08/11/simple-function-plotter</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/simple-function-plotter.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/simple-function-plotter.html">
 			<![CDATA[<p>This app let’s you plot algebreic equations, plot computational expressions, solve conversions, do matrix operations, etc. You can save the graph as a vector image (svg) and easily create a lot of graphs.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/function.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/function.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Function Plotter</h1>
     <p>Expression solver.</p>
-    <a class="btn" href="http://localhost:4000/SimpleFunctionPlotter/">
+    <a class="btn" href="https://esstudio.site/SimpleFunctionPlotter/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -2987,22 +2987,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[ATC Manager 2]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/atc-manager-2.html" />
-		<id>http://localhost:4000/2018/08/11/atc-manager-2</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/atc-manager-2.html" />
+		<id>https://esstudio.site/2018/08/11/atc-manager-2</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/atc-manager-2.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/atc-manager-2.html">
 			<![CDATA[<p>Web based air traffic control game. Manage airspace of busy airports like Schiphol or Heathrow in a realistic simulator.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>ATC Manager 2</h1>
     <p>ATC Manager on the web.</p>
-    <a class="btn" href="http://localhost:4000/atc-manager-2/">
+    <a class="btn" href="https://esstudio.site/atc-manager-2/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -3014,15 +3014,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Youtube Comments are Evil]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/youtube-comments-are-evil.html" />
-		<id>http://localhost:4000/2018/08/11/youtube-comments-are-evil</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/youtube-comments-are-evil.html" />
+		<id>https://esstudio.site/2018/08/11/youtube-comments-are-evil</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/youtube-comments-are-evil.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/youtube-comments-are-evil.html">
 			<![CDATA[<p>Generates fake youtube comments for a given video using a markov model. The created comments are based on the existing comments on that video. If a youtube video has alot of comments the results will be best.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
@@ -3041,22 +3041,22 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Laika Notes]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/laika-notes.html" />
-		<id>http://localhost:4000/2018/08/11/laika-notes</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/laika-notes.html" />
+		<id>https://esstudio.site/2018/08/11/laika-notes</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/laika-notes.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/laika-notes.html">
 			<![CDATA[<p>A simple notes managing app inspired by laika the dog. Can be added to your homescreen and works offline.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/laika.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/laika.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Laika Notes</h1>
     <p>A simple notes managing app.</p>
-    <a class="btn" href="http://localhost:4000/laika-notes/">
+    <a class="btn" href="https://esstudio.site/laika-notes/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -3069,15 +3069,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Newsfeeder]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/08/11/newsfeeder.html" />
-		<id>http://localhost:4000/2018/08/11/newsfeeder</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/08/11/newsfeeder.html" />
+		<id>https://esstudio.site/2018/08/11/newsfeeder</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/08/11/newsfeeder.html">
+		<content type="html" xml:base="https://esstudio.site/2018/08/11/newsfeeder.html">
 			<![CDATA[<p>Newsfeeder (also known as “feedfetish”) is a search engine and modern RSS/Atom reader. It let’s you combine all of your different news/blog, like Reddit, Cnn, Lifehacker, etc. All of your your favorite websites and blogs in one place. Get started for free without the need to sign up below by clicking the launch button.</p>
 
 <p><img src="/newsfeeder/images/news-feed-added-item.png" alt="Newsfeeder screenshot" /></p>
@@ -3085,10 +3085,10 @@ VFR Traffic</p>
 <p>The app is available in the browser and on the google play store.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/logo-6c4e4d.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/logo-6c4e4d.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>Newsfeeder</h1>
     <p>The easiest way to follow news from your favorite websites and blogs and news sites. Easily search for news on multiple platforms, find feeds on popular websites and more. Also works as a classic RSS/Atom reader.</p>
-    <a class="btn" href="http://localhost:4000/newsfeeder/">
+    <a class="btn" href="https://esstudio.site/newsfeeder/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -3100,15 +3100,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Pure CSS Progress Circles]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/07/08/pure-css-progress-circles.html" />
-		<id>http://localhost:4000/2018/07/08/pure-css-progress-circles</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/07/08/pure-css-progress-circles.html" />
+		<id>https://esstudio.site/2018/07/08/pure-css-progress-circles</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/07/08/pure-css-progress-circles.html">
+		<content type="html" xml:base="https://esstudio.site/2018/07/08/pure-css-progress-circles.html">
 			<![CDATA[<p>Progress elements can be usefull in alot of different situations. Showing them as loading indicators, using them as part of a task flow or for data visualization.</p>
 
 <p>Let’s start by creating the html:</p>
@@ -3342,15 +3342,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[OV Fiets App 1.2]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/07/02/ov-fiets-app.html" />
-		<id>http://localhost:4000/2018/07/02/ov-fiets-app</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/07/02/ov-fiets-app.html" />
+		<id>https://esstudio.site/2018/07/02/ov-fiets-app</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/07/02/ov-fiets-app.html">
+		<content type="html" xml:base="https://esstudio.site/2018/07/02/ov-fiets-app.html">
 			<![CDATA[<p>Niet genoeg OV Fietsen op het station? Deze app laat het aantal fietsen zien, beschikbaarheid en de openingstijden voor elke OV Fiets huurlocatie in nederland. Beschikbaar als <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Ov_Fiets_App">app</a> en in de <a href="https://esstudio.site/ov-fiets-app/">browser</a></p>
 
 <p><img src="/uploads/esstudio.site_ov-fiets-app_(Nexus%205X)%20(Custom).png" alt="esstudio.site_ov-fiets-app_(Nexus 5X) (Custom).png" /></p>
@@ -3388,10 +3388,10 @@ VFR Traffic</p>
 <p>Ook is er nu een website versie van de OV Fiets App die <a href="https://esstudio.site/ov-fiets-app/">hier</a> gevonden kan worden.</p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
-    <img src="http://localhost:4000/uploads/my_logo_512.png" alt="" style="max-width: 50%; margin: 20px auto" />
+    <img src="https://esstudio.site/uploads/my_logo_512.png" alt="" style="max-width: 50%; margin: 20px auto" />
     <h1>OV Fiets App</h1>
     <p>Met de OV Fiets Website kunt u gemakkelijk informatie opzoeken over OV Fiets huurlocaties.</p>
-    <a class="btn" href="http://localhost:4000/ov-fiets-app/">
+    <a class="btn" href="https://esstudio.site/ov-fiets-app/">
         <span>Launch</span>
         <svg viewBox="0 0 10 18" style="height: 1.2em"><path d="m0.8,1l8,8l-8,8" fill="none" stroke-width="2" style="stroke: currentColor;" /></svg>
     </a>
@@ -3460,15 +3460,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Converting JSON to CSV in Javascript]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/06/07/obj2csv-dot-js.html" />
-		<id>http://localhost:4000/2018/06/07/obj2csv-dot-js</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/06/07/obj2csv-dot-js.html" />
+		<id>https://esstudio.site/2018/06/07/obj2csv-dot-js</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/06/07/obj2csv-dot-js.html">
+		<content type="html" xml:base="https://esstudio.site/2018/06/07/obj2csv-dot-js.html">
 			<![CDATA[<p>Checkout the website: <a href="http://esstudio.site/json2csv">JSON2CSV</a> or the <a href="#full-example">full example</a>.</p>
 
 <p>While searching for a csv2obj javascript library I couldn’t find a good solution, so I decided to write a very minimal csv2obj converter. Let’s start with creating the parser (csv2obj). Because of cross browser support i will try not to use a lot of es5/es6 specific syntax. The following function will do the job. There are some important caveats. The function will, in some cases, try to convert boolean, number and null values to their correct type. This only works if it matches the exact value. For example
@@ -3645,15 +3645,15 @@ VFR Traffic</p>
   
 	<entry>
 		<title type="html"><![CDATA[Teaching a Neural Network to write text]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/2018/05/28/teaching-a-neural-network-to-write-text.html" />
-		<id>http://localhost:4000/2018/05/28/teaching-a-neural-network-to-write-text</id>
+		<link rel="alternate" type="text/html" href="https://esstudio.site/2018/05/28/teaching-a-neural-network-to-write-text.html" />
+		<id>https://esstudio.site/2018/05/28/teaching-a-neural-network-to-write-text</id>
 		<updated>2018-11-07T17:34:00+01:00</updated>
 		<author>
         
 			<name><![CDATA[Sem Postma]]></name>
         
 		</author>
-		<content type="html" xml:base="http://localhost:4000/2018/05/28/teaching-a-neural-network-to-write-text.html">
+		<content type="html" xml:base="https://esstudio.site/2018/05/28/teaching-a-neural-network-to-write-text.html">
 			<![CDATA[<p>A simple neural network that writes letters using <a href="https://github.com/cazala/synaptic">synaptic</a> and <a href="https://github.com/oliver-moran/jimp">jimp</a> in pure javascirpt.</p>
 
 <h1 id="checkout-a-working-example-below"><a href="#nn-example-text-writer">Checkout a working example below</a></h1>
@@ -3736,11 +3736,11 @@ Check out a visualization of the network in the image below:</p>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
-<script src="http://localhost:4000/assets/js/jimp.min.js"></script>
+<script src="https://esstudio.site/assets/js/jimp.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/synaptic/1.1.4/synaptic.min.js" integrity="sha256-t3MKDO0e1ULGddDg4QswIm9r1ZfOzguJLRk2TFuRsIg=" crossorigin="anonymous"></script>
 
-<script src="http://localhost:4000/assets/js/neural-net-image-writer.min.js"></script>
+<script src="https://esstudio.site/assets/js/neural-net-image-writer.min.js"></script>
 
 <script>
     var canvas = document.getElementById('c');
@@ -3748,7 +3748,7 @@ Check out a visualization of the network in the image below:</p>
     var f = function(x) { return Math.floor(Math.max(0, Math.min(255, x))) }
     
     window.addEventListener('load', function(e) {
-        $.getJSON("http://localhost:4000/resources/pretrained-nn.json", function(nn) {
+        $.getJSON("https://esstudio.site/resources/pretrained-nn.json", function(nn) {
             $('#learning-iterations-slider').on('input', function(e) { 
                 iterations = +e.target.value; 
                 $('#iterations-output').text(iterations + ' iterations');
