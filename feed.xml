@@ -38,7 +38,7 @@
   <li>Panden die zich in het perceel bevinden</li>
 </ul>
 
-<p><img src="/uploads/esstudio.site_kadaster-app_(Nexus 6) (1).png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/esstudio.site_kadaster-app_(Nexus 6) (1).png" alt="" /></p>
 
 <p>Over panden kun je ook nog deze informatie vinden:</p>
 
@@ -868,7 +868,7 @@ const xmlDoc = parser.parseFromString(xml,"text/xml");
 
 <p>Let’s log the “xmlDoc” to the console. This will show a list of entry elements, which we need to display our posts.</p>
 
-<p><img src="/uploads/rssfeed.PNG" alt="Atom Feed console.log" /></p>
+<p><img src="https://esstudio.site/uploads/rssfeed.PNG" alt="Atom Feed console.log" /></p>
 
 <p>Because the xmlDoc is of type “Document” and not “HTMLDocument”, we can’t use functions like “.querySelector” so we will use “.getElementsByTagName” to select the entry tags. This will return an array like object. To convert an array like object or iterable object, to an array, use <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from">Array.from(arrayLikeObject)</a>.</p>
 
@@ -1577,12 +1577,12 @@ e.g DLH213 extend downwind
 
 <p>The next update of the game will include general aviation. It will be put behind a checkbox to keep the game simple (and because there could be a lot of changed to it in the future). I really like the feature because it makes the game a lot more dynamic.</p>
 
-<p><img src="/uploads/vfr.png" alt="" />
+<p><img src="https://esstudio.site/uploads/vfr.png" alt="" />
 General Aviation</p>
 
 <p>Some work needs to to be put in to collision avoidance, correct states for each type of VFR (visual flight rules) flight (Inbound, Outbound, Enroute, Closed Pattern), Go-arounds, Touch and go’s and new general aviation airplanes. Feedback is welcome because the feature is not done yet, so i can still change things without to much hassle. General aviation airplanes do not always fly VFR, you will also see them in the regular IFR (instrument flight rules) traffic.</p>
 
-<p><img src="/uploads/vfrpanel.png" alt="" />
+<p><img src="https://esstudio.site/uploads/vfrpanel.png" alt="" />
 VFR Traffic</p>
 
 <p>VFR traffic is not controlled by setting heading and altitude. You can give the instructions listed above.</p>
@@ -1769,23 +1769,23 @@ VFR Traffic</p>
 		<content type="html" xml:base="https://esstudio.site/2018/09/10/3d-texturing-using-curvature-maps.html">
 			<![CDATA[<p>Using curvature maps is a great way of improving your diffuse/occlusion maps and potentially also other kind of UV maps. Im sorry if I’m not the most educated on this subject but I was very pleased with the final result. I decided to create eight meshes which I then unwrapped on a single 4096 by 4096 px image. Creating each map for all of the meshes and then combining them took a long time to complete. But the fun part was generating the curvature maps. In short the curvature map stores the convexity of the mesh in the Red color value, and concavity in the Green color value. Convexity of the mesh means the places on the model where the mesh is curving outwards. Concavity means basically the opposite so the places on the model where the mesh is “hollow”. In my case, only the Convexity was important because i wanted to oultine the spots on the mesh where a lot of wear could occur. I only used the Red channel (convexity), and desaturated it. And used the white color to brighten parts of the diffuse map. I also applied this technique to the metalness map.</p>
 
-<p><img src="/uploads/diffuse2-1.png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/diffuse2-1.png" alt="" /></p>
 
-<p><img src="/uploads/diffuse2.png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/diffuse2.png" alt="" /></p>
 
 <p>On the left the basic Diffuse map, on the right the Diffuse map with the convexity layer added.</p>
 
-<p><img src="/uploads/normal.png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/normal.png" alt="" /></p>
 
-<p><img src="/uploads/occlusion.png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/occlusion.png" alt="" /></p>
 
 <p>On the left the normal map and on the right the height map.</p>
 
 <p>Final results:</p>
 
-<p><img src="/uploads/unityeditor2.png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/unityeditor2.png" alt="" /></p>
 
-<p><img src="/uploads/unityeditor.png" alt="" /></p>
+<p><img src="https://esstudio.site/uploads/unityeditor.png" alt="" /></p>
 
 <div class="affiliate">
     <h3>Resources:</h3>
@@ -1949,15 +1949,15 @@ VFR Traffic</p>
 
 <h2 id="air-control-madness"><a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.AirControlMadness&amp;hl=en_US">Air Control Madness</a></h2>
 
-<p><img src="/uploads/image-a460e5.png" alt="image-a460e5.png" /></p>
+<p><img src="https://esstudio.site/uploads/image-a460e5.png" alt="image-a460e5.png" /></p>
 
 <p>Air Control Madness is an adictive  atc game which puts the job of handling incoming traffic, in your hands. <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.AirControlMadness">Link.</a></p>
 
 <h2 id="atc-manager"><a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.ATCManager">ATC Manager</a></h2>
 
-<p><img src="/uploads/atc-manager.png" alt="atc-manager.png" /></p>
+<p><img src="https://esstudio.site/uploads/atc-manager.png" alt="atc-manager.png" /></p>
 
-<p><img src="/uploads/atc-manager-screenshot.png" alt="atc-manager-screenshot.png" /></p>
+<p><img src="https://esstudio.site/uploads/atc-manager-screenshot.png" alt="atc-manager-screenshot.png" /></p>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.ATCManager">Checkout the App.</a></p>
 
@@ -1965,7 +1965,7 @@ VFR Traffic</p>
 
 <h2 id="atc-manager-2-️"><a href="https://esstudio.site/atc-manager-2">ATC Manager 2 ✈️</a></h2>
 
-<p><img src="/uploads/atc.PNG" alt="atc.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/atc.PNG" alt="atc.PNG" /></p>
 
 <div class="app-portal" style="width: 400px; max-width: 100%; padding: 10px">
     <img src="https://esstudio.site/uploads/schiphol.PNG" alt="" style="max-width: 50%; margin: 20px auto" />
@@ -1993,13 +1993,13 @@ VFR Traffic</p>
 
 <h2 id="atc-sim"><strong><a href="https://atc-sim.com/">ATC-SIM</a></strong></h2>
 
-<h2><img src="/uploads/maxresdefault.jpg" alt="maxresdefault.jpg" /></h2>
+<h2><img src="https://esstudio.site/uploads/maxresdefault.jpg" alt="maxresdefault.jpg" /></h2>
 
 <p>ATC-SIM is a browser-based air traffic control simulator. It works by typing commands into a textbox. The game is simple and very addictive to play.</p>
 
 <h2 id="air-control-lite"><strong><a href="https://play.google.com/store/apps/details?id=dk.logisoft.aircontrol&amp;hl=nl">Air Control Lite</a></strong></h2>
 
-<p><img src="/uploads/download.jpg" alt="download.jpg" /></p>
+<p><img src="https://esstudio.site/uploads/download.jpg" alt="download.jpg" /></p>
 
 <p>This simple and addictive game where the player has to control an airport with two runways and one helipad. The planes have different colors, Red, Blue and Green. Red for large incoming flights, blue for smaller planes, and green for incoming helicopters. It has the number one ranking in ATC games category on Google Play Store.</p>
 
@@ -2027,7 +2027,7 @@ VFR Traffic</p>
 		<content type="html" xml:base="https://esstudio.site/2018/08/31/youtube-comment-generator.html">
 			<![CDATA[<p>Searching for a good youtube comments generator?</p>
 
-<p><img src="/uploads/youtube-comments-are-evil-screenshot.png" alt="youtube-comments-are-evil-screenshot.png" /></p>
+<p><img src="https://esstudio.site/uploads/youtube-comments-are-evil-screenshot.png" alt="youtube-comments-are-evil-screenshot.png" /></p>
 
 <p>This website is a free youtube comments generator. The created random comments are based on the existing comments on that video. If a youtube video has alot of comments the results will be best.</p>
 
@@ -2090,13 +2090,13 @@ VFR Traffic</p>
 
 <p>You can find the game in the <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.ATCManager&amp;hl=en_US">Google Play</a> store.</p>
 
-<p><img src="/uploads/Screenshot_20180830-181002.png" alt="Screenshot_20180830-181002.png" /></p>
+<p><img src="https://esstudio.site/uploads/Screenshot_20180830-181002.png" alt="Screenshot_20180830-181002.png" /></p>
 
-<p><img src="/uploads/Screenshot_20180830-181005.png" alt="Screenshot_20180830-181005.png" /></p>
+<p><img src="https://esstudio.site/uploads/Screenshot_20180830-181005.png" alt="Screenshot_20180830-181005.png" /></p>
 
-<p><img src="/uploads/Screenshot_20180830-181012.png" alt="Screenshot_20180830-181012.png" /></p>
+<p><img src="https://esstudio.site/uploads/Screenshot_20180830-181012.png" alt="Screenshot_20180830-181012.png" /></p>
 
-<p><img src="/uploads/Screenshot_20180830-181018.png" alt="Screenshot_20180830-181018.png" /></p>
+<p><img src="https://esstudio.site/uploads/Screenshot_20180830-181018.png" alt="Screenshot_20180830-181018.png" /></p>
 
 <p><strong>WHAT’S NEW</strong></p>
 
@@ -3353,7 +3353,7 @@ VFR Traffic</p>
 		<content type="html" xml:base="https://esstudio.site/2018/07/02/ov-fiets-app.html">
 			<![CDATA[<p>Niet genoeg OV Fietsen op het station? Deze app laat het aantal fietsen zien, beschikbaarheid en de openingstijden voor elke OV Fiets huurlocatie in nederland. Beschikbaar als <a href="https://play.google.com/store/apps/details?id=com.EchoSierraStudio.Ov_Fiets_App">app</a> en in de <a href="https://esstudio.site/ov-fiets-app/">browser</a></p>
 
-<p><img src="/uploads/esstudio.site_ov-fiets-app_(Nexus%205X)%20(Custom).png" alt="esstudio.site_ov-fiets-app_(Nexus 5X) (Custom).png" /></p>
+<p><img src="https://esstudio.site/uploads/esstudio.site_ov-fiets-app_(Nexus%205X)%20(Custom).png" alt="esstudio.site_ov-fiets-app_(Nexus 5X) (Custom).png" /></p>
 
 <p>Met de OV Fiets App kunt u gemakkelijk informatie opzoeken over OV Fiets huurlocaties. U kunt de zoekbalk bovenaan de homepage van de app gebruiken om locaties te zoeken.</p>
 
@@ -3399,35 +3399,35 @@ VFR Traffic</p>
 
 <p>De website versie werkt in essentie hetzelfde als de app alleen kan het ook op IOS, windows en desktops gebruiken. De website kan zelfs offline gebruikt worden (met verouderde informatie over ov fiets locaties totdat je weer online bent), wanneer je het installeert als web app. Dat kan heel handig kan zijn als je bijvoorbeeld net even geen wifi hebt. De instructies voor installeren van de web app zijn staan hieronder:</p>
 
-<p><img src="/uploads/website.PNG" alt="website.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/website.PNG" alt="website.PNG" /></p>
 
 <p>Als je de web app nog niet hebt geïnstalleerd en je gebruikt de laatste versie van chrome dan kun je onderaan de website de knop “Toevoegen aan Startscherm/Bureaublad” zien.</p>
 
-<p><img src="/uploads/esstudio.site_ov-fiets-app-eaaf02.png" alt="esstudio.site_ov-fiets-app-eaaf02.png" /></p>
+<p><img src="https://esstudio.site/uploads/esstudio.site_ov-fiets-app-eaaf02.png" alt="esstudio.site_ov-fiets-app-eaaf02.png" /></p>
 
 <p>Dit geld ook voor android, ios etc.</p>
 
-<p><img src="/uploads/prompt.PNG" alt="prompt.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/prompt.PNG" alt="prompt.PNG" /></p>
 
 <p>Klik op deze knop.</p>
 
-<p><img src="/uploads/native-prompt.PNG" alt="native-prompt.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/native-prompt.PNG" alt="native-prompt.PNG" /></p>
 
 <p>Er verschijnt nu een dialoog, klik op installeren.</p>
 
-<p><img src="/uploads/pwa-86c881.PNG" alt="pwa-86c881.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/pwa-86c881.PNG" alt="pwa-86c881.PNG" /></p>
 
 <p>De web app is nu geïnstalleerd op je startscherm.</p>
 
-<p><img src="/uploads/offline-pwa.PNG" alt="offline-pwa.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/offline-pwa.PNG" alt="offline-pwa.PNG" /></p>
 
 <p>Wanneer de internet verbinding onderbroken wordt zie je de melding “Je bent niet verbonden met het internet. Deg gegevens die worden weergegeven zijn mogelijk verouderd.</p>
 
-<p><img src="/uploads/pwas-unninstall.PNG" alt="pwas-unninstall.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/pwas-unninstall.PNG" alt="pwas-unninstall.PNG" /></p>
 
 <p>Als je de app weer wilt verwijderen dan kun je naar deze link gaan: “chrome://apps/”.</p>
 
-<p><img src="/uploads/pwas-unninstall-context.PNG" alt="pwas-unninstall-context.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/pwas-unninstall-context.PNG" alt="pwas-unninstall-context.PNG" /></p>
 
 <p>Klik met de rechter muis op de web app en klik op verwijderen. In android, IOS en andere mobiele apparaten kun je de app vanaf het startscherm verwijderen (net als elke andere app).</p>
 
@@ -3453,7 +3453,7 @@ VFR Traffic</p>
 
 <p><strong>Lighthouse Progressive Web App score:</strong></p>
 
-<p><img src="/uploads/lighthouse.PNG" alt="lighthouse.PNG" /></p>
+<p><img src="https://esstudio.site/uploads/lighthouse.PNG" alt="lighthouse.PNG" /></p>
 ]]>
 		</content>
 	</entry>
